@@ -1,0 +1,7 @@
+{
+  "name": "playme",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
